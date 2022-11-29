@@ -26,4 +26,19 @@
 * I chose games with small volume, simple interaction and narrative to experience, including Angry Birds, World Games, Inside, etc. Through experience, I believe that the game design process needs to give full play to the player's decision-making power to ensure the player's experience. In a game mode with limited interaction, such as live interactive games, game AI needs to play a bigger role to make up for this deficiency.
 * For the planning of game content, I first investigated some live channels. In these common live channels, I found outdoor sports to be a rich and interesting direction. So I designed my game concept as a virtual outdoor live channel.
 * Based on the common elements of outdoor live channels, I designed the following object categories in the game: game environment, animals, plants, props, weather, etc
-* 
+* At the same time, the game values of different events are designed.
+### Development (2022.7.29-2022-9.20)
+* In the design process, the first thing is to obtain the technical verification of the broadcast channel comments. In my project mainly through the method of calling the listening function, real-time access to channel comment content. After the code part is completed, connect it to the debug log first, and check whether this part runs successfully by using the string output from the console.
+* Create game scenes and personas through blender. And through mixamo to build character bones, and binding character animation.Build all game elements in unity and add the appropriate attributes
+* Design the state of the game's protagonist, and script the game AI to control the protagonist's behavior.
+* Create status values and text prompts for the game's main character through unity.
+* After each section is finished, wire all the scripts together to debug the final effect.
+### optimization and evaluation (2022.9.20-2022.10.15)
+*  In the process of game optimization and iterative development, 10 people with game development experience or rich game experience were invited to participate in the survey
+*  Through discussion, testing and quantitative analysis, I made new requirements for game interaction, AI script and interactive elements in the research process, and made improvements in iterative development.
+*  At the end of the development process, put the game on a live streaming platform for open beta testing, continuously observe the data and get feedback. A questionnaire was sent out among the participants to evaluate the usability of the game quantitatively.
+### Paperwork (2022.10.15-2022.11.28)
+*  Collate documents and materials
+*  Complete the thesis
+*  Make an introductory Video
+*  Submission
