@@ -50,5 +50,6 @@
 *  Make an introductory Video
 *  Submission
 
+* Due to limited size，full project can be found on google drive：https://drive.google.com/drive/folders/18_B6j0AZEvycqdDe85nWdxSGQ3-Slu6s?usp=share_link
 *  LINK： https://github.com/FengLinLi2010/Advanced-Project
 *  LINK of video： https://www.youtube.com/watch?v=wcNqyIOmQjY
